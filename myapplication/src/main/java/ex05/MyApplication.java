@@ -10,8 +10,6 @@ import org.springframework.context.annotation.Bean;
 
 import ex05.component.MyComponent;
 
-
-
 /**
  * 
  * Application Context 구성 후, 실행할 코드(Application Context 환경) 가 있는 경우

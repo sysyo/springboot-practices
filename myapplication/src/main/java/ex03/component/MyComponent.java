@@ -1,8 +1,7 @@
 package ex03.component;
 
-import org.springframework.boot.SpringBootConfiguration;
+import org.springframework.stereotype.Component;
 
-@SpringBootConfiguration
+@Component
 public class MyComponent {
-	
 }
