@@ -1,4 +1,6 @@
-package ex01;
+//package ex01;
+//
+//public class MyComponent {
+//}
 
-public class MyComponent {
-}
+// 
